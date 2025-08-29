@@ -2,8 +2,8 @@
 
 instance_type = "t2.medium"
 ami           = "ami-0e86e20dae9224db8"   # Ubuntu 24.04
-key_name      = "key"                     # Replace with your key-name without .pem extension
-volume_size   = 30
+key_name      = "daws-82s"                     # Replace with your key-name without .pem extension
+volume_size   = 25
 region_name   = "us-east-1"
 server_name   = "JENKINS-SERVER"
 
